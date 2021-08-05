@@ -1,4 +1,4 @@
-# Repos Restaurnate
+# Repos Restaurante
 Documentación de Usuario y Técnica de Repos Restaurante
 
 ## Requisitos
